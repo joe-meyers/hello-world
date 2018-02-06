@@ -1,2 +1,2 @@
 # hello-world
-Oh yea... starting from scratch.
+I'm a system administrator/engineer in 2018 with little scripting let alone coding experience. 
